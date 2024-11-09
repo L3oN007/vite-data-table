@@ -1,0 +1,1850 @@
+[
+    {
+        "id": 1,
+        "name": "Abkhazia",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "289",
+        "active": 1
+    },
+    {
+        "id": 2,
+        "name": "Afghanistan",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "412",
+        "active": 1
+    },
+    {
+        "id": 3,
+        "name": "Albania",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "276",
+        "active": 1
+    },
+    {
+        "id": 4,
+        "name": "Algeria",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "603",
+        "active": 1
+    },
+    {
+        "id": 5,
+        "name": "American Samoa",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "544",
+        "active": 1
+    },
+    {
+        "id": 6,
+        "name": "Andorra",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "213",
+        "active": 1
+    },
+    {
+        "id": 7,
+        "name": "Angola",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "631",
+        "active": 1
+    },
+    {
+        "id": 8,
+        "name": "Anguilla",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "365",
+        "active": 1
+    },
+    {
+        "id": 9,
+        "name": "Antigua and Barbuda",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "344",
+        "active": 1
+    },
+    {
+        "id": 10,
+        "name": "Argentina",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "722",
+        "active": 1
+    },
+    {
+        "id": 11,
+        "name": "Armenia",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "283",
+        "active": 1
+    },
+    {
+        "id": 12,
+        "name": "Aruba",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "363",
+        "active": 1
+    },
+    {
+        "id": 13,
+        "name": "Australia",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "505",
+        "active": 1
+    },
+    {
+        "id": 14,
+        "name": "Austria",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "232",
+        "active": 1
+    },
+    {
+        "id": 15,
+        "name": "Azerbaijan",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "400",
+        "active": 1
+    },
+    {
+        "id": 16,
+        "name": "Bahamas",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "364",
+        "active": 1
+    },
+    {
+        "id": 17,
+        "name": "Bahrain",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "426",
+        "active": 1
+    },
+    {
+        "id": 18,
+        "name": "Bangladesh",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "470",
+        "active": 1
+    },
+    {
+        "id": 19,
+        "name": "Barbados",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "342",
+        "active": 1
+    },
+    {
+        "id": 20,
+        "name": "Belarus",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "257",
+        "active": 1
+    },
+    {
+        "id": 21,
+        "name": "Belgium",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "206",
+        "active": 1
+    },
+    {
+        "id": 22,
+        "name": "Belize",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "702",
+        "active": 1
+    },
+    {
+        "id": 23,
+        "name": "Benin",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "616",
+        "active": 1
+    },
+    {
+        "id": 24,
+        "name": "Bermuda",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "350",
+        "active": 1
+    },
+    {
+        "id": 25,
+        "name": "Bhutan",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "402",
+        "active": 1
+    },
+    {
+        "id": 26,
+        "name": "Bolivia",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "736",
+        "active": 1
+    },
+    {
+        "id": 27,
+        "name": "Bosnia and Herzegovina",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "218",
+        "active": 1
+    },
+    {
+        "id": 28,
+        "name": "Botswana",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "652",
+        "active": 1
+    },
+    {
+        "id": 29,
+        "name": "Brazil",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "724",
+        "active": 1
+    },
+    {
+        "id": 30,
+        "name": "British Virgin Islands",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "348",
+        "active": 1
+    },
+    {
+        "id": 31,
+        "name": "Brunei",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "528",
+        "active": 1
+    },
+    {
+        "id": 32,
+        "name": "Bulgaria",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "284",
+        "active": 1
+    },
+    {
+        "id": 33,
+        "name": "Burkina Faso",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "613",
+        "active": 1
+    },
+    {
+        "id": 34,
+        "name": "Burundi",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "642",
+        "active": 1
+    },
+    {
+        "id": 35,
+        "name": "Cambodia",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "456",
+        "active": 1
+    },
+    {
+        "id": 36,
+        "name": "Cameroon",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "624",
+        "active": 1
+    },
+    {
+        "id": 37,
+        "name": "Canada",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "302",
+        "active": 1
+    },
+    {
+        "id": 38,
+        "name": "Cape Verde",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "625",
+        "active": 1
+    },
+    {
+        "id": 39,
+        "name": "Cayman Islands",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "346",
+        "active": 1
+    },
+    {
+        "id": 40,
+        "name": "Central African Republic",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "623",
+        "active": 1
+    },
+    {
+        "id": 41,
+        "name": "Chad",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "622",
+        "active": 1
+    },
+    {
+        "id": 42,
+        "name": "Chile",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "730",
+        "active": 1
+    },
+    {
+        "id": 43,
+        "name": "China",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "460",
+        "active": 1
+    },
+    {
+        "id": 44,
+        "name": "Colombia",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "732",
+        "active": 1
+    },
+    {
+        "id": 45,
+        "name": "Comoros",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "654",
+        "active": 1
+    },
+    {
+        "id": 46,
+        "name": "Congo",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "629",
+        "active": 1
+    },
+    {
+        "id": 47,
+        "name": "Cook Islands",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "548",
+        "active": 1
+    },
+    {
+        "id": 48,
+        "name": "Costa Rica",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "712",
+        "active": 1
+    },
+    {
+        "id": 49,
+        "name": "Croatia",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "219",
+        "active": 1
+    },
+    {
+        "id": 50,
+        "name": "Cuba",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "368",
+        "active": 1
+    },
+    {
+        "id": 51,
+        "name": "Cyprus",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "280",
+        "active": 1
+    },
+    {
+        "id": 52,
+        "name": "Czech Republic",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "230",
+        "active": 1
+    },
+    {
+        "id": 53,
+        "name": "Democratic Republic of Congo",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "630",
+        "active": 1
+    },
+    {
+        "id": 54,
+        "name": "Denmark",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "238",
+        "active": 1
+    },
+    {
+        "id": 55,
+        "name": "Diego Garcia",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "310",
+        "active": 1
+    },
+    {
+        "id": 56,
+        "name": "Djibouti",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "638",
+        "active": 1
+    },
+    {
+        "id": 57,
+        "name": "Dominica",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "366",
+        "active": 1
+    },
+    {
+        "id": 58,
+        "name": "Dominican Republic",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "370",
+        "active": 1
+    },
+    {
+        "id": 59,
+        "name": "East Timor",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "514",
+        "active": 1
+    },
+    {
+        "id": 60,
+        "name": "Ecuador",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "740",
+        "active": 1
+    },
+    {
+        "id": 61,
+        "name": "Egypt",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "602",
+        "active": 1
+    },
+    {
+        "id": 62,
+        "name": "El Salvador",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "706",
+        "active": 1
+    },
+    {
+        "id": 63,
+        "name": "Equatorial Guinea",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "627",
+        "active": 1
+    },
+    {
+        "id": 64,
+        "name": "Eritrea",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "657",
+        "active": 1
+    },
+    {
+        "id": 65,
+        "name": "Estonia",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "248",
+        "active": 1
+    },
+    {
+        "id": 66,
+        "name": "Ethiopia",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "636",
+        "active": 1
+    },
+    {
+        "id": 67,
+        "name": "Falkland Islands",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "750",
+        "active": 1
+    },
+    {
+        "id": 68,
+        "name": "Faroe Islands",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "288",
+        "active": 1
+    },
+    {
+        "id": 69,
+        "name": "Fiji",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "542",
+        "active": 1
+    },
+    {
+        "id": 70,
+        "name": "Finland",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "244",
+        "active": 1
+    },
+    {
+        "id": 71,
+        "name": "France",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "208",
+        "active": 1
+    },
+    {
+        "id": 72,
+        "name": "French Polynesia",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "547",
+        "active": 1
+    },
+    {
+        "id": 73,
+        "name": "Gabon",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "628",
+        "active": 1
+    },
+    {
+        "id": 74,
+        "name": "Gambia",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "607",
+        "active": 1
+    },
+    {
+        "id": 75,
+        "name": "Georgia",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "282",
+        "active": 1
+    },
+    {
+        "id": 76,
+        "name": "Germany",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "262",
+        "active": 1
+    },
+    {
+        "id": 77,
+        "name": "Ghana",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "620",
+        "active": 1
+    },
+    {
+        "id": 78,
+        "name": "Gibraltar",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "266",
+        "active": 1
+    },
+    {
+        "id": 79,
+        "name": "Greece",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "202",
+        "active": 1
+    },
+    {
+        "id": 80,
+        "name": "Greenland",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "290",
+        "active": 1
+    },
+    {
+        "id": 81,
+        "name": "Grenada",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "352",
+        "active": 1
+    },
+    {
+        "id": 82,
+        "name": "Guadeloupe and Martinique and French Guiana",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "340",
+        "active": 1
+    },
+    {
+        "id": 83,
+        "name": "Guatemala",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "704",
+        "active": 1
+    },
+    {
+        "id": 84,
+        "name": "Guinea",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "611",
+        "active": 1
+    },
+    {
+        "id": 85,
+        "name": "Guinea-Bissau",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "632",
+        "active": 1
+    },
+    {
+        "id": 86,
+        "name": "Guyana",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "738",
+        "active": 1
+    },
+    {
+        "id": 87,
+        "name": "Haiti",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "372",
+        "active": 1
+    },
+    {
+        "id": 88,
+        "name": "Honduras",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "708",
+        "active": 1
+    },
+    {
+        "id": 89,
+        "name": "Hong Kong",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "454",
+        "active": 1
+    },
+    {
+        "id": 90,
+        "name": "Hungary",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "216",
+        "active": 1
+    },
+    {
+        "id": 91,
+        "name": "Iceland",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "274",
+        "active": 1
+    },
+    {
+        "id": 92,
+        "name": "India",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "405",
+        "active": 1
+    },
+    {
+        "id": 93,
+        "name": "India",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "404",
+        "active": 1
+    },
+    {
+        "id": 94,
+        "name": "Indonesia",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "510",
+        "active": 1
+    },
+    {
+        "id": 95,
+        "name": "International Networks",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "901",
+        "active": 1
+    },
+    {
+        "id": 96,
+        "name": "Iran",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "432",
+        "active": 1
+    },
+    {
+        "id": 97,
+        "name": "Iraq",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "418",
+        "active": 1
+    },
+    {
+        "id": 98,
+        "name": "Ireland",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "272",
+        "active": 1
+    },
+    {
+        "id": 99,
+        "name": "Israel",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "425",
+        "active": 1
+    },
+    {
+        "id": 100,
+        "name": "Italy",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "222",
+        "active": 1
+    },
+    {
+        "id": 101,
+        "name": "Ivory Coast",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "612",
+        "active": 1
+    },
+    {
+        "id": 102,
+        "name": "Jamaica",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "338",
+        "active": 1
+    },
+    {
+        "id": 103,
+        "name": "Japan",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "440",
+        "active": 1
+    },
+    {
+        "id": 104,
+        "name": "Jordan",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "416",
+        "active": 1
+    },
+    {
+        "id": 105,
+        "name": "Kazakhstan",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "401",
+        "active": 1
+    },
+    {
+        "id": 106,
+        "name": "Kenya",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "639",
+        "active": 1
+    },
+    {
+        "id": 107,
+        "name": "Kiribati",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "545",
+        "active": 1
+    },
+    {
+        "id": 108,
+        "name": "Kosovo",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "221",
+        "active": 1
+    },
+    {
+        "id": 109,
+        "name": "Kuwait",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "419",
+        "active": 1
+    },
+    {
+        "id": 110,
+        "name": "Kyrgyzstan",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "437",
+        "active": 1
+    },
+    {
+        "id": 111,
+        "name": "Laos",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "457",
+        "active": 1
+    },
+    {
+        "id": 112,
+        "name": "Latvia",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "247",
+        "active": 1
+    },
+    {
+        "id": 113,
+        "name": "Lebanon",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "415",
+        "active": 1
+    },
+    {
+        "id": 114,
+        "name": "Lesotho",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "651",
+        "active": 1
+    },
+    {
+        "id": 115,
+        "name": "Liberia",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "618",
+        "active": 1
+    },
+    {
+        "id": 116,
+        "name": "Libya",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "606",
+        "active": 1
+    },
+    {
+        "id": 117,
+        "name": "Liechtenstein",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "295",
+        "active": 1
+    },
+    {
+        "id": 118,
+        "name": "Liechtenstein",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "246",
+        "active": 1
+    },
+    {
+        "id": 119,
+        "name": "Luxembourg",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "270",
+        "active": 1
+    },
+    {
+        "id": 120,
+        "name": "Macao",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "455",
+        "active": 1
+    },
+    {
+        "id": 121,
+        "name": "Madagascar",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "646",
+        "active": 1
+    },
+    {
+        "id": 122,
+        "name": "Malawi",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "650",
+        "active": 1
+    },
+    {
+        "id": 123,
+        "name": "Malaysia",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "502",
+        "active": 1
+    },
+    {
+        "id": 124,
+        "name": "Maldives",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "472",
+        "active": 1
+    },
+    {
+        "id": 125,
+        "name": "Mali",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "610",
+        "active": 1
+    },
+    {
+        "id": 126,
+        "name": "Malta",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "278",
+        "active": 1
+    },
+    {
+        "id": 127,
+        "name": "Marshall Islands",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "551",
+        "active": 1
+    },
+    {
+        "id": 128,
+        "name": "Mauritania",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "609",
+        "active": 1
+    },
+    {
+        "id": 129,
+        "name": "Mauritius",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "617",
+        "active": 1
+    },
+    {
+        "id": 130,
+        "name": "Mayotte",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "647",
+        "active": 1
+    },
+    {
+        "id": 131,
+        "name": "Mexico",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "334",
+        "active": 1
+    },
+    {
+        "id": 132,
+        "name": "Micronesia",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "550",
+        "active": 1
+    },
+    {
+        "id": 133,
+        "name": "Moldova",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "259",
+        "active": 1
+    },
+    {
+        "id": 134,
+        "name": "Monaco",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "212",
+        "active": 1
+    },
+    {
+        "id": 135,
+        "name": "Mongolia",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "428",
+        "active": 1
+    },
+    {
+        "id": 136,
+        "name": "Montenegro",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "297",
+        "active": 1
+    },
+    {
+        "id": 137,
+        "name": "Montserrat",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "354",
+        "active": 1
+    },
+    {
+        "id": 138,
+        "name": "Morocco",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "604",
+        "active": 1
+    },
+    {
+        "id": 139,
+        "name": "Mozambique",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "643",
+        "active": 1
+    },
+    {
+        "id": 140,
+        "name": "Myanmar",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "414",
+        "active": 1
+    },
+    {
+        "id": 141,
+        "name": "Namibia",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "649",
+        "active": 1
+    },
+    {
+        "id": 142,
+        "name": "Nauru",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "536",
+        "active": 1
+    },
+    {
+        "id": 143,
+        "name": "Nepal",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "429",
+        "active": 1
+    },
+    {
+        "id": 144,
+        "name": "Netherlands",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "204",
+        "active": 1
+    },
+    {
+        "id": 145,
+        "name": "Netherlands Antilles",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "362",
+        "active": 1
+    },
+    {
+        "id": 146,
+        "name": "New Caledonia",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "546",
+        "active": 1
+    },
+    {
+        "id": 147,
+        "name": "New Zealand",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "530",
+        "active": 1
+    },
+    {
+        "id": 148,
+        "name": "Nicaragua",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "710",
+        "active": 1
+    },
+    {
+        "id": 149,
+        "name": "Niger",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "614",
+        "active": 1
+    },
+    {
+        "id": 150,
+        "name": "Nigeria",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "621",
+        "active": 1
+    },
+    {
+        "id": 151,
+        "name": "Niue",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "555",
+        "active": 1
+    },
+    {
+        "id": 152,
+        "name": "North Korea",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "467",
+        "active": 1
+    },
+    {
+        "id": 153,
+        "name": "North Macedonia",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "294",
+        "active": 1
+    },
+    {
+        "id": 154,
+        "name": "Northern Mariana Islands",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "534",
+        "active": 1
+    },
+    {
+        "id": 155,
+        "name": "Norway",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "242",
+        "active": 1
+    },
+    {
+        "id": 156,
+        "name": "Oman",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "422",
+        "active": 1
+    },
+    {
+        "id": 157,
+        "name": "Pakistan",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "410",
+        "active": 1
+    },
+    {
+        "id": 158,
+        "name": "Palau",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "552",
+        "active": 1
+    },
+    {
+        "id": 159,
+        "name": "Panama",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "714",
+        "active": 1
+    },
+    {
+        "id": 160,
+        "name": "Papua New Guinea",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "537",
+        "active": 1
+    },
+    {
+        "id": 161,
+        "name": "Paraguay",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "744",
+        "active": 1
+    },
+    {
+        "id": 162,
+        "name": "Peru",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "716",
+        "active": 1
+    },
+    {
+        "id": 163,
+        "name": "Philippines",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "515",
+        "active": 1
+    },
+    {
+        "id": 164,
+        "name": "Poland",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "260",
+        "active": 1
+    },
+    {
+        "id": 165,
+        "name": "Portugal",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "268",
+        "active": 1
+    },
+    {
+        "id": 166,
+        "name": "Puerto Rico",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "330",
+        "active": 1
+    },
+    {
+        "id": 167,
+        "name": "Qatar",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "427",
+        "active": 1
+    },
+    {
+        "id": 168,
+        "name": "Romania",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "226",
+        "active": 1
+    },
+    {
+        "id": 169,
+        "name": "Russia",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "250",
+        "active": 1
+    },
+    {
+        "id": 170,
+        "name": "Rwanda",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "635",
+        "active": 1
+    },
+    {
+        "id": 171,
+        "name": "Saint Helena and Ascension and Tristan da Cunha",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "658",
+        "active": 1
+    },
+    {
+        "id": 172,
+        "name": "Saint Kitts and Nevis",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "356",
+        "active": 1
+    },
+    {
+        "id": 173,
+        "name": "Saint Lucia",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "358",
+        "active": 1
+    },
+    {
+        "id": 174,
+        "name": "Saint Pierre and Miquelon",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "308",
+        "active": 1
+    },
+    {
+        "id": 175,
+        "name": "Saint Vincent and the Grenadines",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "360",
+        "active": 1
+    },
+    {
+        "id": 176,
+        "name": "Samoa",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "549",
+        "active": 1
+    },
+    {
+        "id": 177,
+        "name": "San Marino",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "292",
+        "active": 1
+    },
+    {
+        "id": 178,
+        "name": "Sao Tome and Principe",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "626",
+        "active": 1
+    },
+    {
+        "id": 179,
+        "name": "Saudi Arabia",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "420",
+        "active": 1
+    },
+    {
+        "id": 180,
+        "name": "Senegal",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "608",
+        "active": 1
+    },
+    {
+        "id": 181,
+        "name": "Serbia",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "220",
+        "active": 1
+    },
+    {
+        "id": 182,
+        "name": "Seychelles",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "633",
+        "active": 1
+    },
+    {
+        "id": 183,
+        "name": "Sierra Leone",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "619",
+        "active": 1
+    },
+    {
+        "id": 184,
+        "name": "Singapore",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "525",
+        "active": 1
+    },
+    {
+        "id": 185,
+        "name": "Slovakia",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "231",
+        "active": 1
+    },
+    {
+        "id": 186,
+        "name": "Slovenia",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "293",
+        "active": 1
+    },
+    {
+        "id": 187,
+        "name": "Solomon Islands",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "540",
+        "active": 1
+    },
+    {
+        "id": 188,
+        "name": "Somalia",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "637",
+        "active": 1
+    },
+    {
+        "id": 189,
+        "name": "South Africa",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "655",
+        "active": 1
+    },
+    {
+        "id": 190,
+        "name": "South Korea",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "450",
+        "active": 1
+    },
+    {
+        "id": 191,
+        "name": "South Sudan",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "659",
+        "active": 1
+    },
+    {
+        "id": 192,
+        "name": "Spain",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "214",
+        "active": 1
+    },
+    {
+        "id": 193,
+        "name": "Sri Lanka",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "413",
+        "active": 1
+    },
+    {
+        "id": 194,
+        "name": "Sudan",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "634",
+        "active": 1
+    },
+    {
+        "id": 195,
+        "name": "Suriname",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "746",
+        "active": 1
+    },
+    {
+        "id": 196,
+        "name": "Swaziland",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "653",
+        "active": 1
+    },
+    {
+        "id": 197,
+        "name": "Sweden",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "240",
+        "active": 1
+    },
+    {
+        "id": 198,
+        "name": "Switzerland",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "228",
+        "active": 1
+    },
+    {
+        "id": 199,
+        "name": "Syria",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "417",
+        "active": 1
+    },
+    {
+        "id": 200,
+        "name": "Taiwan",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "466",
+        "active": 1
+    },
+    {
+        "id": 201,
+        "name": "Tajikistan",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "436",
+        "active": 1
+    },
+    {
+        "id": 202,
+        "name": "Tanzania",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "640",
+        "active": 1
+    },
+    {
+        "id": 203,
+        "name": "Thailand",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "520",
+        "active": 1
+    },
+    {
+        "id": 204,
+        "name": "Togo",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "615",
+        "active": 1
+    },
+    {
+        "id": 205,
+        "name": "Tonga",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "539",
+        "active": 1
+    },
+    {
+        "id": 206,
+        "name": "Trinidad and Tobago",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "374",
+        "active": 1
+    },
+    {
+        "id": 207,
+        "name": "Tunisia",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "605",
+        "active": 1
+    },
+    {
+        "id": 208,
+        "name": "Turkiye",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "286",
+        "active": 1
+    },
+    {
+        "id": 209,
+        "name": "Turkmenistan",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "438",
+        "active": 1
+    },
+    {
+        "id": 210,
+        "name": "Turks and Caicos Islands",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "376",
+        "active": 1
+    },
+    {
+        "id": 211,
+        "name": "Tuvalu",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "553",
+        "active": 1
+    },
+    {
+        "id": 212,
+        "name": "Uganda",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "641",
+        "active": 1
+    },
+    {
+        "id": 213,
+        "name": "Ukraine",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "255",
+        "active": 1
+    },
+    {
+        "id": 214,
+        "name": "United Arab Emirates",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "424",
+        "active": 1
+    },
+    {
+        "id": 215,
+        "name": "United Kingdom",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "234",
+        "active": 1
+    },
+    {
+        "id": 216,
+        "name": "United States of America",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "312",
+        "active": 1
+    },
+    {
+        "id": 217,
+        "name": "United States of America",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "313",
+        "active": 1
+    },
+    {
+        "id": 218,
+        "name": "United States of America",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "311",
+        "active": 1
+    },
+    {
+        "id": 219,
+        "name": "United States of America",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "316",
+        "active": 1
+    },
+    {
+        "id": 220,
+        "name": "United States of America",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "314",
+        "active": 1
+    },
+    {
+        "id": 221,
+        "name": "United States of America",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "315",
+        "active": 1
+    },
+    {
+        "id": 222,
+        "name": "Uruguay",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "748",
+        "active": 1
+    },
+    {
+        "id": 223,
+        "name": "Uzbekistan",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "434",
+        "active": 1
+    },
+    {
+        "id": 224,
+        "name": "Vanuatu",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "541",
+        "active": 1
+    },
+    {
+        "id": 225,
+        "name": "Vatican",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "225",
+        "active": 1
+    },
+    {
+        "id": 226,
+        "name": "Venezuela",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "734",
+        "active": 1
+    },
+    {
+        "id": 227,
+        "name": "Vietnam",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "452",
+        "active": 1
+    },
+    {
+        "id": 228,
+        "name": "Wallis and Futuna",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "543",
+        "active": 1
+    },
+    {
+        "id": 229,
+        "name": "Yemen",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "421",
+        "active": 1
+    },
+    {
+        "id": 230,
+        "name": "Zambia",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "645",
+        "active": 1
+    },
+    {
+        "id": 231,
+        "name": "Zimbabwe",
+        "created_at": "2024-11-07T07:15:01.000000Z",
+        "updated_at": "2024-11-07T07:15:01.000000Z",
+        "mobile_country_code": "648",
+        "active": 1
+    }
+]
